@@ -1133,11 +1133,11 @@
     },
     {
       "id": "4",
-      "nombre": "Nombre ejemplo",
-      "cargo": "Cargo ejemplo",
-      "empresa": "Empresa ejemplo",
-      "texto": "Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, <strong>ut enim ad minim veniam</strong>.",
-      "foto_autor": "https://blog.photofeeler.com/wp-content/uploads/2017/02/flattering-pose-profile-pics.jpeg",
+      "nombre": "Fabian Rivas",
+      "cargo": "Coleccionista",
+      "empresa": "DC Comics",
+      "texto": "He comprado figuras al extranjero sin problemas, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, <strong>ut enim ad minim veniam</strong>.",
+      "foto_autor": "/images/Screenshot_1.jpg",
       "visible": true
     }
   ]
