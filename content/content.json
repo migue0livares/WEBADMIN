@@ -1105,6 +1105,15 @@
   ],
   "testimonios": [
     {
+      "id": "4",
+      "nombre": "Fabian Rivas",
+      "cargo": "Coleccionista",
+      "empresa": "DC Comics",
+      "texto": "He comprado figuras al extranjero sin problemas, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, <strong>ut enim ad minim veniam</strong>.",
+      "foto_autor": "/images/Screenshot_1.jpg",
+      "visible": true
+    },
+    {
       "id": 1,
       "nombre": "Daniela Moreno",
       "cargo": "Jefa de Comunicaciones",
@@ -1129,15 +1138,6 @@
       "empresa": "ExpoEnergía",
       "texto": "Lorem ipsum dolor sit amet consectetur. <strong>Excepteur sint occaecat</strong> cupidatat non proident, sunt in culpa qui <strong>officia deserunt mollit anim</strong>.",
       "foto_autor": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80",
-      "visible": true
-    },
-    {
-      "id": "4",
-      "nombre": "Fabian Rivas",
-      "cargo": "Coleccionista",
-      "empresa": "DC Comics",
-      "texto": "He comprado figuras al extranjero sin problemas, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, <strong>ut enim ad minim veniam</strong>.",
-      "foto_autor": "/images/Screenshot_1.jpg",
       "visible": true
     }
   ]
