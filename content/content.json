@@ -945,6 +945,19 @@
         "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=800&q=80"
       ],
       "visible": true
+    },
+    {
+      "id": "102",
+      "categoria": "Ferias",
+      "cliente": "Prueba PRUEBA",
+      "titulo": "Nombre de Proyecto",
+      "descripcion": "Probando texto TEXTO 123456",
+      "imagen_thumb": "https://rivercityevv.com/cdn/shop/files/10_1296x.webp?v=1762745001",
+      "imagenes_modal": [
+        "https://rivercityevv.com/cdn/shop/files/10_1296x.webp?v=1762745001",
+        "https://rivercityevv.com/cdn/shop/files/6_1296x.webp?v=1762745006",
+        "https://as2.ftcdn.net/v2/jpg/07/22/30/69/1000_F_722306929_gW8jWzDsIph4XcapEt85rQt55DdSWgUs.jpg"
+      ]
     }
   ],
   "clientes": [
