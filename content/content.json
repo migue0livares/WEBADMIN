@@ -19,9 +19,9 @@
     {
       "id": 101,
       "categoria": "Ferias",
-      "cliente": "Banco Estadoxx",
-      "titulo": "Feria Emprende Biobíoxx",
-      "descripcion": "Gran despliegue espacial con distribución modular inteligente, flujos optimizados de visitantes y materialidades nobles de alta durabilidad estructural. xxx",
+      "cliente": "Banco Estado",
+      "titulo": "Feria Emprende Biobío",
+      "descripcion": "Gran despliegue espacial con distribución modular inteligente, flujos optimizados de visitantes y materialidades nobles de alta durabilidad estructural.",
       "imagen_thumb": "https://www.museumnext.com/wp-content/uploads/2023/12/Designing-an-Exhibition.jpg",
       "imagenes_modal": [
         "https://images.unsplash.com/photo-1565034946487-077786996e27?auto=format&fit=crop&w=800&q=80",
