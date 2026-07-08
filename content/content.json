@@ -1138,7 +1138,7 @@
       "empresa": "Empresa ejemplo",
       "texto": "Probando probando este es un texto falso de prueba hola safasf fas fas fas asfgdsasfgdshetwfdsgfsfagsdgdhfsg",
       "foto_autor": "https://blog.photofeeler.com/wp-content/uploads/2017/02/flattering-pose-profile-pics.jpeg",
-      "visible": false
+      "visible": true
     }
   ]
 }
