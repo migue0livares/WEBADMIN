@@ -1136,7 +1136,7 @@
       "nombre": "Nombre ejemplo",
       "cargo": "Cargo ejemplo",
       "empresa": "Empresa ejemplo",
-      "texto": "Probando probando este es un texto falso de prueba hola safasf fas fas fas asfgdsasfgdshetwfdsgfsfagsdgdhfsg",
+      "texto": "Lorem ipsum dolor sit amet, <strong>consectetur adipiscing elit</strong>. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua, <strong>ut enim ad minim veniam</strong>.",
       "foto_autor": "https://blog.photofeeler.com/wp-content/uploads/2017/02/flattering-pose-profile-pics.jpeg",
       "visible": true
     }
